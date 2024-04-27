@@ -15,7 +15,7 @@ O projeto foi construido a partir das tecnologias HTML, CSS e JS
 
 ## 💻 Projeto
 
-O projeto se consinste em um site capaz de gerar senhas aleatórias, podendo selecionar uma determinada quantidade de caracteres, para o usuario utilizar onde necessitar.
+O projeto se consinste em um site capaz de gerar senhas aleatórias, podendo selecionar uma determinada quantidade de caracteres para o usuario utilizar onde necessitar.
 - [Acesse o projeto finalizado] https://luislemesilva.github.io/projeto_gerador_senha/
 
   
