@@ -23,7 +23,7 @@ O projeto se consinste em um site capaz de gerar senhas aleatórias, podendo sel
 
 ## ✒️ Autores
 
-Projeto realizado por Luis Eduardo Leme Silva, no curso do Suejeito Programador
+Projeto realizado por Luis Eduardo Leme Silva, no curso do Sujeito Programador
 
 ⌨️ com dedicação por [Luis Eduardo Leme Silva](https://gist.github.com/Luislemesilva) 😎
 
